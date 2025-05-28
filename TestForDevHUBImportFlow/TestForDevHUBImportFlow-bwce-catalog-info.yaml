@@ -13,4 +13,4 @@ metadata:
 spec:
   type: bwce
   lifecycle: production
-  owner: group:default/tibco-templates
+  owner: group:default/tibco-imported
